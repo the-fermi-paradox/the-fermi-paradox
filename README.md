@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm interested in systems programming: operating systems, computer architecture, CPU emulators, game engines, virtual machines and compilers.
 
 <!--
 **the-fermi-paradox/the-fermi-paradox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
